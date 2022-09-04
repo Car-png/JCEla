@@ -1,0 +1,40 @@
+{
+  "name": "JCEla-T",
+  "displayName": "JCEla",
+  "description": "Just a great Theme :)",
+  "version": "0.0.1",
+  "publisher": "JCEla",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Car-png/JCEla.git"
+  },
+  "keywords": [
+    "Ela",
+    "ela",
+    "JCardenas",
+    "jcardenas",
+    "Cardenas",
+    "cardenas",
+    "JEla",
+    "jela",
+    "1846"
+  ],
+
+  "icon": "Imgs/JEla.jpg",
+
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JCEla",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JCEla.json"
+      }
+    ]
+  }
+}
