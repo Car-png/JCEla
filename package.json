@@ -2,7 +2,7 @@
   "name": "JCEla-T",
   "displayName": "JCEla",
   "description": "Just a great Theme :)",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "JCEla",
   "repository": {
     "type": "git",
@@ -19,9 +19,7 @@
     "jela",
     "1846"
   ],
-
   "icon": "Imgs/JEla.jpg",
-
   "engines": {
     "vscode": "^1.71.0"
   },
